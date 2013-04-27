@@ -1,0 +1,5 @@
+objs
+bin
+ngx_http_java_module
+*.[oa]
+
